@@ -51,6 +51,7 @@ h1{
 @media (max-width: 978px) {
     #imgLogo {
         width: 15%;
+        margin-top: 10%;
     }
 }
 
@@ -74,7 +75,7 @@ h1{
 
 @media (max-width: 401px){
     .btn{
-        width: 70%;
+        width: 80%;
     }
 
     h1{
