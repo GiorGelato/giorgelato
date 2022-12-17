@@ -16,13 +16,13 @@ h1{
 }
 
 .btn{
-    width: 50%;
+    width: 70%;
     color: rgb(0, 0, 0);
     background-color: white;
     border-radius: 0.4em;
     justify-content: center;
-    margin-left: 25%;
-    margin-right: 25%;
+    /* margin-left: 25%; */
+    /* margin-right: 25%; */
     margin-bottom: 10px;
     font-size: 1.5em;
 }
@@ -74,10 +74,6 @@ h1{
 }
 
 @media (max-width: 401px){
-    .btn{
-        width: 90%;
-    }
-
     h1{
         font-size: 1.2em;
     }
