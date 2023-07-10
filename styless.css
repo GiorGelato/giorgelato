@@ -2,6 +2,7 @@ body{
     background-color: #1a110f;
     text-align: center;
     padding-top: 3%;
+    color: rgb(255, 255, 255);
 }
 
 h1{
@@ -25,6 +26,14 @@ h1{
     /* margin-right: 25%; */
     margin-bottom: 10px;
     font-size: 1.5em;
+}
+
+.conteudos{
+    margin: 4% 0%;
+}
+
+.conteudos img {
+    width: 25px;
 }
 
 #footer p{
