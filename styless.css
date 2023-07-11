@@ -33,7 +33,7 @@ h1{
 }
 
 .conteudos img {
-    width: 25px;
+    width: 30px;
 }
 
 #footer p{
@@ -79,6 +79,10 @@ h1{
     
     #imgLogo{
         width: 25%;
+    }
+
+    .conteudos {
+        margin: 8% 0%;
     }
 }
 
